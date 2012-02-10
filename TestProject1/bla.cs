@@ -7,7 +7,7 @@ namespace TestProject1
 {
     public class bla
     {
-        public bla()
+        public bla(string claudio)
         {
             //asd
         }
