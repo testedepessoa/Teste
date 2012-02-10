@@ -5,7 +5,11 @@ using System.Text;
 
 namespace TestProject1
 {
-    class bla
+    public class bla
     {
+        public bla()
+        {
+            //asd
+        }
     }
 }
